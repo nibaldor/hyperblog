@@ -1,4 +1,4 @@
-Esta es la historia de Nibaldo Rojas
+﻿Esta es la historia de Nibaldo Rojas
 
 Nibaldo nacio en Chile, tiene 48 años
 
@@ -8,4 +8,4 @@ Ahora hablaremos de su historia
 
 Ahora estudio en Platzi para mejorar mi negocio
 
-Ahora estudio Git y Githubgit
+Ahora estudio Git y Github
