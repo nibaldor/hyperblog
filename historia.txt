@@ -9,3 +9,5 @@ Ahora hablaremos de su historia
 Ahora estudio en Platzi para mejorar mi negocio
 
 Ahora estudio Git y Github
+
+Nuevo cambio
